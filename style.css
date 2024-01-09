@@ -1,0 +1,39 @@
+.main{
+    background-color: #f5f5f4;
+    padding-right: 47px;
+}
+
+span{
+    text-align: center;
+    background-color: rgb(243, 171, 63);
+    /* font-family: verdana,helvetica,arial,sans-serif; */
+    font-size: 20px;
+    color: #f5f5f4;
+    padding: 9px;
+    
+}
+
+.leftmenu a:link,.leftmenu a:visited {
+    font: 13px verdana,helvetica,arial,sans-serif;
+    line-height: 23px;
+    color: black;
+    text-decoration: none
+}
+
+.leftmenu a:active,.leftmenu a:hover,.leftmenu a:link,.leftmenu a:visited {
+    width: 100%;
+    display: block;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 6px;
+    background: url(https://static.javatpoint.com/images/arrowbullet.png) 0 4px no-repeat;
+    padding-left: 15px;
+    border-bottom:1px solid burlywood;
+}
+.only_content{
+    font-size: 16px;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+
